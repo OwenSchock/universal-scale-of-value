@@ -2,7 +2,7 @@
 
 An interactive, 3-dimensional holographic visualization exploring the magnitude of wealth. This project puts "billions" and "trillions" into perspective by comparing modern tech giants, historical empires, and national GDPs.
 
-**[View Live Demo](https://owenschock.github.io/universal-scale-of-value/)**
+**[View Live Demo](https://OwenSchock.github.io/universal-scale-of-value/)**
 
 ---
 
