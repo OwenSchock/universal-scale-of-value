@@ -1,8 +1,8 @@
-# Universal Scale of Value 💎
+# Universal Scale of Value 
 
 An interactive, 3-dimensional holographic visualization exploring the magnitude of wealth. This project puts "billions" and "trillions" into perspective by comparing modern tech giants, historical empires, and national GDPs.
 
-**[View Live Demo](YOUR_GITHUB_PAGES_LINK_HERE)**
+**[View Live Demo](https://owenschock.github.io/universal-scale-of-value/)**
 
 ---
 
